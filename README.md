@@ -1,2 +1,3 @@
 # Sites
-Hotel
+Hotel not adaptive first site
+Euclid adaptive
